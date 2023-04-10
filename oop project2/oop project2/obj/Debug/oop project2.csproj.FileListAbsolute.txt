@@ -1,0 +1,36 @@
+C:\Users\VC\source\repos\oop project2\oop project2\bin\Debug\oop project2.exe.config
+C:\Users\VC\source\repos\oop project2\oop project2\bin\Debug\oop project2.exe
+C:\Users\VC\source\repos\oop project2\oop project2\bin\Debug\oop project2.pdb
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop project2.csprojAssemblyReference.cache
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop_project2.Form1.resources
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop_project2.Properties.Resources.resources
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop project2.csproj.GenerateResource.cache
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop project2.csproj.CoreCompileInputs.cache
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop project2.exe
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop project2.pdb
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop_project2.Form2.resources
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop_project2.typinginterface.resources
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop_project2.gameover.resources
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop_project2.Form3.resources
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop_project2.fast.resources
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop_project2.average.resources
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop_project2.poor.resources
+C:\Users\VC\source\repos\oop project2\oop project2\obj\Debug\oop_project2.instruction.resources
+C:\Users\VC\Desktop\oop project2\oop project2\bin\Debug\oop project2.exe.config
+C:\Users\VC\Desktop\oop project2\oop project2\bin\Debug\oop project2.exe
+C:\Users\VC\Desktop\oop project2\oop project2\bin\Debug\oop project2.pdb
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop_project2.average.resources
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop_project2.fast.resources
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop_project2.Form1.resources
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop_project2.Form2.resources
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop_project2.Form3.resources
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop_project2.gameover.resources
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop_project2.instruction.resources
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop_project2.poor.resources
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop_project2.Properties.Resources.resources
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop_project2.typinginterface.resources
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop project2.csproj.GenerateResource.cache
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop project2.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop project2.exe
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop project2.pdb
+C:\Users\VC\Desktop\oop project2\oop project2\obj\Debug\oop project2.csproj.AssemblyReference.cache
